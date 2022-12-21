@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 651,
+    "articles": [
+        {
+            "source": {
+                "id": "the-verge",
+                "name": "The Verge"
+            },
+            "author": "Jon Porter",
+            "title": "Tuesday’s top tech news: The law comes for Bankman-Fried",
+            "description": "FTX’s co-founder Sam Bankman-Fried has been arrested, we’re expecting an a “scientific breakthrough” in the development of fusion energy, and Tim Cook has confirmed that the iPhone uses Sony camera sensors.",
+            "url": "https://www.theverge.com/2022/12/13/23506980/december-13-2022-tech-news-liveblog",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/F5-vQfriDY9GUJaNV6oeWRwkYWg=/0x0:1600x1046/1200x628/filters:focal(688x463:689x464)/cdn.vox-cdn.com/uploads/chorus_asset/file/24288018/1245273681.jpg",
+            "publishedAt": "2022-12-13T10:01:00Z",
+            "content": "FTX co-founder Sam Bankman-Fried, who’s been arrested. | Matias J. Ocner/Miami Herald/Tribune News Service via Getty Images\r\n\n \n\n And an important fusion energy announcement is expected later today. … [+1260 chars]"
+        },
+        {
+            "source": {
+                "id": "ars-technica",
+                "name": "Ars Technica"
+            },
+            "author": "Ars Contributors",
+            "title": "Mercedes built a concept car for Avatar, and we drove it",
+            "description": "The collaboration may seem odd, but it made sense after we drove it.",
+            "url": "https://arstechnica.com/cars/2022/12/mercedes-built-a-concept-car-for-avatar-and-we-drove-it/",
+            "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2022/12/MB_Vision_AVTR-55-760x380.jpg",
+            "publishedAt": "2022-12-13T01:00:18Z",
+            "content": "Enlarge/ Many concepts are static models, but Mercedes-Benz built one that works. At low speed, anyway.\r\n2 with 0 posters participating\r\nWhen you think of the future of transportation, you probably d… [+5650 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Apple's Japan investment crosses $100 bln, CEO Cook visits chip epicentre - Reuters.com",
+            "description": "Apple Inc <a href=\"https://www.reuters.com/companies/AAPL.O\" target=\"_blank\">(AAPL.O)</a> said on Tuesday it had invested more than $100 billion in its Japanese supply network over the last five years, as its Chief Executive Officer Tim Cook visited the epice…",
+            "url": "https://www.reuters.com/technology/apples-japan-investment-crosses-100-bln-ceo-cook-visits-chip-epicentre-2022-12-13/",
+            "urlToImage": "https://www.reuters.com/resizer/iNYu1R7EqqXfLe2E4vEVeKYR0vQ=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7X35SU7CYBMVNOLAHMDFCMA6CI.jpg",
+            "publishedAt": "2022-12-13T03:14:00Z",
+            "content": "TOKYO, Dec 13 (Reuters) - Apple Inc (AAPL.O) said on Tuesday it had invested more than $100 billion in its Japanese supply network over the last five years, as its Chief Executive Officer Tim Cook vi… [+1175 chars]"
+        },
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Editor for liberal Hong Kong media outlet out on bail after year behind bars - Reuters",
+            "description": "The former editor of a major Hong Kong media outlet, who stands accused of publishing seditious materials in a landmark press freedom case in the China-ruled city, was released on bail on Tueesday after being remanded in custody for nearly a year.",
+            "url": "https://www.reuters.com/world/china/editor-liberal-hong-kong-media-outlet-out-bail-after-year-behind-bars-2022-12-13/",
+            "urlToImage": "https://www.reuters.com/resizer/yqALAClgGUJMBkygV8wD1XQIANE=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/6BRYNHXLDFO2HHAPQGWRFBLBO4.jpg",
+            "publishedAt": "2022-12-13T04:27:49Z",
+            "content": "HONG KONG, Dec 13 (Reuters) - The former editor of a major Hong Kong media outlet, who stands accused of publishing seditious materials in a landmark press freedom case in the China-ruled city, was r… [+2249 chars]"
+        }  
+    ]
+}
